@@ -1,5 +1,3 @@
-<--## Hi there 👋-->
-
 # 👨‍💼 Dr. Muhammad Tufail
 
 Assistant Professor of Computer Science  
